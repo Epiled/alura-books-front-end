@@ -39,6 +39,7 @@ Implementei o ESLint para assegurar a consistência e qualidade do código. Todo
 
 <!--ts-->
    * [Detalhes do projeto](#detalhes-do-projeto)
+   * [Tópicos Desenvolvidos](#topicos-desenvolvidos)
    * [Demonstração](#demonstracao)
      - [Home](#home)
    * [Pré-Requisito](#pre-requisito)
@@ -46,6 +47,15 @@ Implementei o ESLint para assegurar a consistência e qualidade do código. Todo
    * [Como usar](#como-usar)
    * [Tecnologias](#tecnologias)
    * [Autor](#autor)
+<!--te-->
+
+<h2 id="topicos-desenvolvidos"> 👩‍🏫 Tópicos Desenvolvidos </h2>
+
+<!--ts-->
+  * Compreenda os conhecimentos básicos teóricos e práticos de React
+  * Aplique a manutenção numa aplicação React
+  * Crie um website próprio usando React
+  * Coloque em prática as ferramentas mais utilizadas pelo mercado de trabalho front-end
 <!--te-->
 
 <h2 id="demonstracao"> 👀 Demonstração </h2>
