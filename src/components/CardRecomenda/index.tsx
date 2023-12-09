@@ -2,26 +2,26 @@ import styled from 'styled-components';
 import { Titulo } from '../Titulo';
 
 const Card = styled.div`
+  display: flex;
   align-items: center;
+  justify-content: space-around;
+  border-radius: 10px;
   background-color: #FFF;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  border-radius: 10px;
-  display: flex;
   margin: 0 auto;
   max-width: 600px;
   padding: 25px 20px;
-  justify-content: space-around;
   width: 100%;  
 `
 
 const Botao = styled.button`
-  background-color: #EB9B00;
-  color: #FFF;
-  padding: 10px 0px;
-  font-size: 16px;
-  border: none;
-  font-weight: 900;
   display: block;
+  background-color: #EB9B00;
+  border: none;
+  color: #FFF;
+  font-size: 16px;
+  font-weight: 900;
+  padding: 10px 0px;
   text-align: center;
   width: 150px;
     &:hover {

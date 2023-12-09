@@ -16,7 +16,7 @@ Projeto do curso <a href="https://cursos.alura.com.br/course/react-crie-primeira
 
 O Alura Books é um site de venda de livros desenvolvido com tecnologias modernas para proporcionar uma experiência de usuário envolvente e eficiente.
 
-Implementei o ESLint para assegurar a consistência e qualidade do código. Todo o desenvolvimento foi realizado utilizando React com TypeScript, e a estilização foi feita por meio de Styled Components.
+Implementei o ESLint para assegurar a consistência e qualidade do código. Todo o desenvolvimento foi realizado utilizando React com TypeScript, e a estilização foi feita por meio do Styled Components.
 
 ![Badge](https://img.shields.io/github/last-commit/Epiled/alura-books-front-end?style=for-the-badge)
 ![Badge](https://img.shields.io/github/languages/code-size/Epiled/alura-books-front-end?style=for-the-badge)

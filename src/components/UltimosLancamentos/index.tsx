@@ -11,14 +11,19 @@ const UltimosLancamentosContainer = styled.section`
   flex-direction: column;
 `
 
-
-
 const NovosLivrosContainer = styled.div`
   margin-top: 30px;
   display: flex;
   width: 100%;
   justify-content: center;
   cursor: pointer;
+  margin-bottom: 20px;
+  gap: 20px;
+
+`
+
+const ImagemEstilizada = styled.img`
+  max-width: 210px;
 `
 
 
@@ -33,7 +38,7 @@ export default function UltimosLancamentos() {
       </Titulo>
       <NovosLivrosContainer>
         {lancamentos.map((livro, index) => (
-          <img key={index} src={livro.src} />
+          <ImagemEstilizada key={index} src={livro.src} />
         ))}
       </NovosLivrosContainer>
       <CardRecomenda
