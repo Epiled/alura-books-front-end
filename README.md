@@ -10,7 +10,7 @@ Projeto do curso <a href="https://cursos.alura.com.br/course/react-crie-primeira
 | :label: Tecnologias | react, typescript, styled components, html, css, js, node, vite, eslint
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![optimus-tech](https://github.com/Epiled/7-days-optimus-tech/assets/55258483/afc823f8-3c22-4d75-8540-abac28d99fcc#vitrinedev)
+![alura-books-front-end](https://github.com/Epiled/alura-books-full-stack/assets/55258483/87ebaa29-c858-40d8-938c-8b3ca01618d7#vitrinedev)
 
 <h2 id="detalhes-do-projeto"> 📃 Detalhes do projeto </h2>
 
@@ -52,9 +52,7 @@ Implementei o ESLint para assegurar a consistência e qualidade do código. Todo
 
 <h3 id="home"> Home </h3>
 
-https://github.com/Epiled/7-days-optimus-tech/assets/55258483/14c8fe0c-0247-4755-98cd-3106d9c12100
-
-https://github.com/Epiled/7-days-optimus-tech/assets/55258483/487a997d-b856-4100-a2a7-7ef5605333e2
+https://github.com/Epiled/alura-books-full-stack/assets/55258483/622ce978-fa06-42c4-b6f8-7cd58debddd2
 
 <h2 id="pre-requisito"> 🚨 Pré-requisito </h2>
 <ul>
